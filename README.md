@@ -15,22 +15,22 @@
 	- 【Chap03-4】猴王（斜堆） -3
 	- [【Chap03-5】猴王（左偏树） -3](readme/Chap03-5.md)
 - Chap04 并查集 
-	- 【Chap04-1】破译密文 -3
+	- [【Chap04-1】破译密文 -3](readme/Chap04-1.md)
 	- [【Chap04-2】食物链 -3](readme/Chap04-2.md)
 - Chap05 线段树 
 	- [【Chap05-1】逆序对 -2](readme/Chap05-1.md)
-	- 【Chap05-2】City Horizon -3
-	- 【Chap05-3】Frequent Values -4
+	- [【Chap05-2】City Horizon -3](readme/Chap05-2.md)（poj 3277）
+	- [【Chap05-3】Frequent Values -4](readme/Chap05-3.md)（poj 3368）
 - Chap06 树状数组　
 	- [【Chap06-1】逆序对 -2](readme/Chap06-1.md)
 	- 【Chap06-2】翻卡片 -2
 	- 【Chap06-3】翻卡片（扩展） -3
 - Chapt07-1 伸展树 
-	- 【Chap07-1-1】郁闷的出纳员 -4
-	- 【Chap07-1-2】序列终结者 -5
+	- [【Chap07-1-1】郁闷的出纳员 -4](readme/Chap07-1-1.md)（noi 2004）
+	- [【Chap07-1-2】序列终结者 -5](readme/Chap07-1-2.md)（bzoj 1251）
 - Chapt07-2 Treap 
 	- [【Chap07-2-1】星际争霸 -2](readme/Chap07-2-1.md) 
-	- 【Chap07-2-2】金矿 -5
+	- [【Chap07-2-2】金矿 -5](readme/Chap07-2-2.md)（poi 2001）
 
 ### （2）课程及格要求至少完成5个来自不同章例题的编程实现，且要求：
 - Chap01必选一题
@@ -39,6 +39,6 @@
 - Chap07-1和07-2必选一题          
 - 必须用C语言实现.，具体根据评分与完成的数量、难度、质量、测试和报告等相关；
 ### （3）课程结束前，约10人一组进行验收交流：
-- ① 个人演示、自评、提交作业报告；
-- ② 小组交流、组评；
-- ③ 老师验收、问答。
+1. 个人演示、自评、提交作业报告；
+2. 小组交流、组评；
+3. 老师验收、问答。
